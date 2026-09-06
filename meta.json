@@ -1,0 +1,23 @@
+{
+  "repo": "shutter-encoder-pro-ultimate-release",
+  "product": "Shutter Encoder Pro Ultimate Release",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "shutter-encoder",
+    "ffmpeg-gui",
+    "batch-transcode",
+    "prores-export",
+    "broadcast-encode",
+    "shutterencoder-setup-failed-fix",
+    "how-to-install-shutterencoder",
+    "shutterencoder-windows",
+    "shutterencoder-desktop-2026",
+    "shutterencoder-desktop-package"
+  ],
+  "site": "toolix.me"
+}
